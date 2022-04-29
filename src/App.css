@@ -44,6 +44,10 @@
   width: 811px;
 }
 
+.table__head .table__cell {
+  text-align: -webkit-left;
+}
+
 .table__headText {
   line-height: 22px;
   text-align: left;

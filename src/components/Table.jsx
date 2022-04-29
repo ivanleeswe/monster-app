@@ -47,13 +47,13 @@ const Table = ({ columnNames, data, title }) => {
       <thead className="table__head">
         <tr>
           {columnNames.map((columnName) => (
-            <td
+            <th
               key={columnName}
               className="table__cell"
               onClick={() => handleSort(columnName)}
             >
               <span className="table__headText pointer">{columnName}</span>
-            </td>
+            </th>
           ))}
         </tr>
       </thead>
