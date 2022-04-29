@@ -1,0 +1,142 @@
+/* App */
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #6b50d7;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.app__container {
+  padding-top: 60px;
+}
+
+.app__title {
+  color: #ffffff;
+}
+
+.app__subtitle {
+  color: #a698dd;
+}
+
+/* Table */
+.table {
+  background-color: white;
+  border-collapse: collapse;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  height: 422px;
+  overflow-y: hidden;
+  width: 811px;
+}
+
+.table::-webkit-scrollbar {
+  display: none;
+}
+
+.table__head {
+  background-color: #d5d7dc;
+  font-weight: bold;
+  width: 811px;
+}
+
+.table__headText {
+  line-height: 22px;
+  text-align: left;
+}
+
+.table__head .table__cell {
+  cursor: pointer;
+}
+
+.table__body {
+  display: block;
+  overflow-y: scroll;
+}
+
+.table__row {
+  position: relative;
+}
+
+.table__row--clicked {
+  background-color: rgba(101, 227, 255, 0.12);
+  border: 1.01px solid #65e3ff;
+}
+
+.table__cell {
+  border: 1px solid #f2f2f2;
+  padding: 12px 16px;
+  width: 202px;
+  height: 46px;
+  box-sizing: border-box;
+}
+
+.table__cellText {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.table__cellBar--background {
+  background-color: #f2f2f2;
+  border-radius: 100px;
+  height: 10px;
+  overflow: hidden;
+  width: 170px;
+}
+
+.table__cellBar--fill {
+  background-color: #37a46f;
+  height: 100%;
+}
+
+/* Progress Bar */
+.table__bar {
+  background-color: #f2f2f2;
+  border-radius: 100px;
+  height: 10px;
+  overflow: hidden;
+  width: 170px;
+}
+
+.table__bar--fill {
+  background-color: #37a46f;
+  height: 100%;
+}
+
+/* Pop Up */
+.popUp .popUp__wrapper {
+  background: #37a46f;
+  border-radius: 12px;
+  box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.25);
+  height: 51px;
+  left: 104px;
+  padding: 16px;
+  position: absolute;
+  visibility: hidden;
+  width: 72px;
+  z-index: 1;
+}
+
+.popUp:hover .popUp__wrapper {
+  visibility: visible;
+}
+
+.popUp__wrapper .popUp__title {
+  color: #000000;
+  font-size: 12px;
+  line-height: 22px;
+  width: 72px;
+}
+
+.popUp__type {
+  color: #ffffff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 29px;
+}

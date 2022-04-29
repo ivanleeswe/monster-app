@@ -1,0 +1,2102 @@
+[
+  {
+    "monster id": 1,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 61
+  },
+  {
+    "monster id": 2,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 8
+  },
+  {
+    "monster id": 3,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 82
+  },
+  {
+    "monster id": 4,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 29
+  },
+  {
+    "monster id": 5,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 57
+  },
+  {
+    "monster id": 6,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 53
+  },
+  {
+    "monster id": 7,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 100
+  },
+  {
+    "monster id": 8,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 70
+  },
+  {
+    "monster id": 9,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 68
+  },
+  {
+    "monster id": 10,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 82
+  },
+  {
+    "monster id": 11,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 0
+  },
+  {
+    "monster id": 12,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 32
+  },
+  {
+    "monster id": 13,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 46
+  },
+  {
+    "monster id": 14,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 57
+  },
+  {
+    "monster id": 15,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 48
+  },
+  {
+    "monster id": 16,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 87
+  },
+  {
+    "monster id": 17,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 37
+  },
+  {
+    "monster id": 18,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 92
+  },
+  {
+    "monster id": 19,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 100
+  },
+  {
+    "monster id": 20,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 26
+  },
+  {
+    "monster id": 21,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 3
+  },
+  {
+    "monster id": 22,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 53
+  },
+  {
+    "monster id": 23,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 93
+  },
+  {
+    "monster id": 24,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 83
+  },
+  {
+    "monster id": 25,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 20
+  },
+  {
+    "monster id": 26,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 48
+  },
+  {
+    "monster id": 27,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 33
+  },
+  {
+    "monster id": 28,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 87
+  },
+  {
+    "monster id": 29,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 83
+  },
+  {
+    "monster id": 30,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 95
+  },
+  {
+    "monster id": 31,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 0
+  },
+  {
+    "monster id": 32,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 84
+  },
+  {
+    "monster id": 33,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 38
+  },
+  {
+    "monster id": 34,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 60
+  },
+  {
+    "monster id": 35,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 81
+  },
+  {
+    "monster id": 36,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 27
+  },
+  {
+    "monster id": 37,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 81
+  },
+  {
+    "monster id": 38,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 5
+  },
+  {
+    "monster id": 39,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 43
+  },
+  {
+    "monster id": 40,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 30
+  },
+  {
+    "monster id": 41,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 53
+  },
+  {
+    "monster id": 42,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 29
+  },
+  {
+    "monster id": 43,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 1,
+    "power level": 14
+  },
+  {
+    "monster id": 44,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 28
+  },
+  {
+    "monster id": 45,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 59
+  },
+  {
+    "monster id": 46,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 63
+  },
+  {
+    "monster id": 47,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 36
+  },
+  {
+    "monster id": 48,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 82
+  },
+  {
+    "monster id": 49,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 1
+  },
+  {
+    "monster id": 50,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 88
+  },
+  {
+    "monster id": 51,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 52
+  },
+  {
+    "monster id": 52,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 50
+  },
+  {
+    "monster id": 53,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 13
+  },
+  {
+    "monster id": 54,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 40
+  },
+  {
+    "monster id": 55,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 82
+  },
+  {
+    "monster id": 56,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 28
+  },
+  {
+    "monster id": 57,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 12
+  },
+  {
+    "monster id": 58,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 19
+  },
+  {
+    "monster id": 59,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 19
+  },
+  {
+    "monster id": 60,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 36
+  },
+  {
+    "monster id": 61,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 90
+  },
+  {
+    "monster id": 62,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 95
+  },
+  {
+    "monster id": 63,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 40
+  },
+  {
+    "monster id": 64,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 66
+  },
+  {
+    "monster id": 65,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 26
+  },
+  {
+    "monster id": 66,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 5
+  },
+  {
+    "monster id": 67,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 39
+  },
+  {
+    "monster id": 68,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 38
+  },
+  {
+    "monster id": 69,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 16
+  },
+  {
+    "monster id": 70,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 20
+  },
+  {
+    "monster id": 71,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 14
+  },
+  {
+    "monster id": 72,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 68
+  },
+  {
+    "monster id": 73,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 90
+  },
+  {
+    "monster id": 74,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 24
+  },
+  {
+    "monster id": 75,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 48
+  },
+  {
+    "monster id": 76,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 51
+  },
+  {
+    "monster id": 77,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 10
+  },
+  {
+    "monster id": 78,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 88
+  },
+  {
+    "monster id": 79,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 30
+  },
+  {
+    "monster id": 80,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 35
+  },
+  {
+    "monster id": 81,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 19
+  },
+  {
+    "monster id": 82,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 91
+  },
+  {
+    "monster id": 83,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 21
+  },
+  {
+    "monster id": 84,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 34
+  },
+  {
+    "monster id": 85,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 30
+  },
+  {
+    "monster id": 86,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 12
+  },
+  {
+    "monster id": 87,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 58
+  },
+  {
+    "monster id": 88,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 52
+  },
+  {
+    "monster id": 89,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 62
+  },
+  {
+    "monster id": 90,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 18
+  },
+  {
+    "monster id": 91,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 52
+  },
+  {
+    "monster id": 92,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 26
+  },
+  {
+    "monster id": 93,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 42
+  },
+  {
+    "monster id": 94,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 18
+  },
+  {
+    "monster id": 95,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 80
+  },
+  {
+    "monster id": 96,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 32
+  },
+  {
+    "monster id": 97,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 17
+  },
+  {
+    "monster id": 98,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 9
+  },
+  {
+    "monster id": 99,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 43
+  },
+  {
+    "monster id": 100,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 1,
+    "power level": 25
+  },
+  {
+    "monster id": 101,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 52
+  },
+  {
+    "monster id": 102,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 37
+  },
+  {
+    "monster id": 103,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 19
+  },
+  {
+    "monster id": 104,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 7
+  },
+  {
+    "monster id": 105,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 37
+  },
+  {
+    "monster id": 106,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 82
+  },
+  {
+    "monster id": 107,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 32
+  },
+  {
+    "monster id": 108,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 4
+  },
+  {
+    "monster id": 109,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 22
+  },
+  {
+    "monster id": 110,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 36
+  },
+  {
+    "monster id": 111,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 55
+  },
+  {
+    "monster id": 112,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 23
+  },
+  {
+    "monster id": 113,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 59
+  },
+  {
+    "monster id": 114,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 34
+  },
+  {
+    "monster id": 115,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 87
+  },
+  {
+    "monster id": 116,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 51
+  },
+  {
+    "monster id": 117,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 35
+  },
+  {
+    "monster id": 118,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 2
+  },
+  {
+    "monster id": 119,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 85
+  },
+  {
+    "monster id": 120,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 49
+  },
+  {
+    "monster id": 121,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 29
+  },
+  {
+    "monster id": 122,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 89
+  },
+  {
+    "monster id": 123,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 86
+  },
+  {
+    "monster id": 124,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 3
+  },
+  {
+    "monster id": 125,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 29
+  },
+  {
+    "monster id": 126,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 44
+  },
+  {
+    "monster id": 127,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 20
+  },
+  {
+    "monster id": 128,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 97
+  },
+  {
+    "monster id": 129,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 69
+  },
+  {
+    "monster id": 130,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 18
+  },
+  {
+    "monster id": 131,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 14
+  },
+  {
+    "monster id": 132,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 32
+  },
+  {
+    "monster id": 133,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 1,
+    "power level": 17
+  },
+  {
+    "monster id": 134,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 44
+  },
+  {
+    "monster id": 135,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 84
+  },
+  {
+    "monster id": 136,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 41
+  },
+  {
+    "monster id": 137,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 21
+  },
+  {
+    "monster id": 138,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 50
+  },
+  {
+    "monster id": 139,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 39
+  },
+  {
+    "monster id": 140,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 15
+  },
+  {
+    "monster id": 141,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 15
+  },
+  {
+    "monster id": 142,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 93
+  },
+  {
+    "monster id": 143,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 82
+  },
+  {
+    "monster id": 144,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 94
+  },
+  {
+    "monster id": 145,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 19
+  },
+  {
+    "monster id": 146,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 18
+  },
+  {
+    "monster id": 147,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 31
+  },
+  {
+    "monster id": 148,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 44
+  },
+  {
+    "monster id": 149,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 15
+  },
+  {
+    "monster id": 150,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 44
+  },
+  {
+    "monster id": 151,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 49
+  },
+  {
+    "monster id": 152,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 84
+  },
+  {
+    "monster id": 153,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 8
+  },
+  {
+    "monster id": 154,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 19
+  },
+  {
+    "monster id": 155,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 0
+  },
+  {
+    "monster id": 156,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 22
+  },
+  {
+    "monster id": 157,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 39
+  },
+  {
+    "monster id": 158,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 53
+  },
+  {
+    "monster id": 159,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 11
+  },
+  {
+    "monster id": 160,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 46
+  },
+  {
+    "monster id": 161,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 39
+  },
+  {
+    "monster id": 162,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 81
+  },
+  {
+    "monster id": 163,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 43
+  },
+  {
+    "monster id": 164,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 21
+  },
+  {
+    "monster id": 165,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 40
+  },
+  {
+    "monster id": 166,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 60
+  },
+  {
+    "monster id": 167,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 48
+  },
+  {
+    "monster id": 168,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 37
+  },
+  {
+    "monster id": 169,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 35
+  },
+  {
+    "monster id": 170,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 32
+  },
+  {
+    "monster id": 171,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 23
+  },
+  {
+    "monster id": 172,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 58
+  },
+  {
+    "monster id": 173,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 74
+  },
+  {
+    "monster id": 174,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 39
+  },
+  {
+    "monster id": 175,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 39
+  },
+  {
+    "monster id": 176,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 36
+  },
+  {
+    "monster id": 177,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 65
+  },
+  {
+    "monster id": 178,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 70
+  },
+  {
+    "monster id": 179,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 22
+  },
+  {
+    "monster id": 180,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 57
+  },
+  {
+    "monster id": 181,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 36
+  },
+  {
+    "monster id": 182,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 41
+  },
+  {
+    "monster id": 183,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 37
+  },
+  {
+    "monster id": 184,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 84
+  },
+  {
+    "monster id": 185,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 2,
+    "power level": 36
+  },
+  {
+    "monster id": 186,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 47
+  },
+  {
+    "monster id": 187,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 45
+  },
+  {
+    "monster id": 188,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 1
+  },
+  {
+    "monster id": 189,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 93
+  },
+  {
+    "monster id": 190,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 26
+  },
+  {
+    "monster id": 191,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 18
+  },
+  {
+    "monster id": 192,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 8
+  },
+  {
+    "monster id": 193,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 64
+  },
+  {
+    "monster id": 194,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 49
+  },
+  {
+    "monster id": 195,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 59
+  },
+  {
+    "monster id": 196,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 13
+  },
+  {
+    "monster id": 197,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 47
+  },
+  {
+    "monster id": 198,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 30
+  },
+  {
+    "monster id": 199,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 88
+  },
+  {
+    "monster id": 200,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 74
+  },
+  {
+    "monster id": 201,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 100
+  },
+  {
+    "monster id": 202,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 2
+  },
+  {
+    "monster id": 203,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 1,
+    "power level": 29
+  },
+  {
+    "monster id": 204,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 28
+  },
+  {
+    "monster id": 205,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 0
+  },
+  {
+    "monster id": 206,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 30
+  },
+  {
+    "monster id": 207,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 69
+  },
+  {
+    "monster id": 208,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 11
+  },
+  {
+    "monster id": 209,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 93
+  },
+  {
+    "monster id": 210,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 40
+  },
+  {
+    "monster id": 211,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 58
+  },
+  {
+    "monster id": 212,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 11
+  },
+  {
+    "monster id": 213,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 66
+  },
+  {
+    "monster id": 214,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 43
+  },
+  {
+    "monster id": 215,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 45
+  },
+  {
+    "monster id": 216,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 97
+  },
+  {
+    "monster id": 217,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 12
+  },
+  {
+    "monster id": 218,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 49
+  },
+  {
+    "monster id": 219,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 31
+  },
+  {
+    "monster id": 220,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 33
+  },
+  {
+    "monster id": 221,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 51
+  },
+  {
+    "monster id": 222,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 51
+  },
+  {
+    "monster id": 223,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 38
+  },
+  {
+    "monster id": 224,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 86
+  },
+  {
+    "monster id": 225,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 45
+  },
+  {
+    "monster id": 226,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 54
+  },
+  {
+    "monster id": 227,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 61
+  },
+  {
+    "monster id": 228,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 95
+  },
+  {
+    "monster id": 229,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 75
+  },
+  {
+    "monster id": 230,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 35
+  },
+  {
+    "monster id": 231,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 16
+  },
+  {
+    "monster id": 232,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 19
+  },
+  {
+    "monster id": 233,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 29
+  },
+  {
+    "monster id": 234,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 17
+  },
+  {
+    "monster id": 235,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 21
+  },
+  {
+    "monster id": 236,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 12
+  },
+  {
+    "monster id": 237,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 92
+  },
+  {
+    "monster id": 238,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 5
+  },
+  {
+    "monster id": 239,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 89
+  },
+  {
+    "monster id": 240,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 98
+  },
+  {
+    "monster id": 241,
+    "monster type": "ghost",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 59
+  },
+  {
+    "monster id": 242,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 48
+  },
+  {
+    "monster id": 243,
+    "monster type": "ghost",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 32
+  },
+  {
+    "monster id": 244,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 44
+  },
+  {
+    "monster id": 245,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 37
+  },
+  {
+    "monster id": 246,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 49
+  },
+  {
+    "monster id": 247,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 58
+  },
+  {
+    "monster id": 248,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 82
+  },
+  {
+    "monster id": 249,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 87
+  },
+  {
+    "monster id": 250,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 1,
+    "power level": 29
+  },
+  {
+    "monster id": 251,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 99
+  },
+  {
+    "monster id": 252,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 84
+  },
+  {
+    "monster id": 253,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 63
+  },
+  {
+    "monster id": 254,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 96
+  },
+  {
+    "monster id": 255,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 1,
+    "power level": 18
+  },
+  {
+    "monster id": 256,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 46
+  },
+  {
+    "monster id": 257,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 31
+  },
+  {
+    "monster id": 258,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 30
+  },
+  {
+    "monster id": 259,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 1
+  },
+  {
+    "monster id": 260,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 74
+  },
+  {
+    "monster id": 261,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 31
+  },
+  {
+    "monster id": 262,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 95
+  },
+  {
+    "monster id": 263,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 75
+  },
+  {
+    "monster id": 264,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 4,
+    "power level": 90
+  },
+  {
+    "monster id": 265,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 1,
+    "power level": 27
+  },
+  {
+    "monster id": 266,
+    "monster type": "goblin",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 21
+  },
+  {
+    "monster id": 267,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 33
+  },
+  {
+    "monster id": 268,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 9
+  },
+  {
+    "monster id": 269,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 25
+  },
+  {
+    "monster id": 270,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 15
+  },
+  {
+    "monster id": 271,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 52
+  },
+  {
+    "monster id": 272,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 14
+  },
+  {
+    "monster id": 273,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 75
+  },
+  {
+    "monster id": 274,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 33
+  },
+  {
+    "monster id": 275,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 65
+  },
+  {
+    "monster id": 276,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 0,
+    "power level": 14
+  },
+  {
+    "monster id": 277,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 54
+  },
+  {
+    "monster id": 278,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 14
+  },
+  {
+    "monster id": 279,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 83
+  },
+  {
+    "monster id": 280,
+    "monster type": "goblin",
+    "number of arms": 3,
+    "number of legs": 2,
+    "power level": 0
+  },
+  {
+    "monster id": 281,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 14
+  },
+  {
+    "monster id": 282,
+    "monster type": "zombie",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 35
+  },
+  {
+    "monster id": 283,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 94
+  },
+  {
+    "monster id": 284,
+    "monster type": "zombie",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 21
+  },
+  {
+    "monster id": 285,
+    "monster type": "goblin",
+    "number of arms": 1,
+    "number of legs": 2,
+    "power level": 28
+  },
+  {
+    "monster id": 286,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 88
+  },
+  {
+    "monster id": 287,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 93
+  },
+  {
+    "monster id": 288,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 50
+  },
+  {
+    "monster id": 289,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 94
+  },
+  {
+    "monster id": 290,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 30
+  },
+  {
+    "monster id": 291,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 92
+  },
+  {
+    "monster id": 292,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 54
+  },
+  {
+    "monster id": 293,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 50
+  },
+  {
+    "monster id": 294,
+    "monster type": "zombie",
+    "number of arms": 0,
+    "number of legs": 0,
+    "power level": 29
+  },
+  {
+    "monster id": 295,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 82
+  },
+  {
+    "monster id": 296,
+    "monster type": "ghost",
+    "number of arms": 1,
+    "number of legs": 0,
+    "power level": 31
+  },
+  {
+    "monster id": 297,
+    "monster type": "dragon",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 95
+  },
+  {
+    "monster id": 298,
+    "monster type": "dragon",
+    "number of arms": 2,
+    "number of legs": 2,
+    "power level": 93
+  },
+  {
+    "monster id": 299,
+    "monster type": "goblin",
+    "number of arms": 4,
+    "number of legs": 2,
+    "power level": 13
+  },
+  {
+    "monster id": 300,
+    "monster type": "spider",
+    "number of arms": 4,
+    "number of legs": 4,
+    "power level": 50
+  }
+ ]
