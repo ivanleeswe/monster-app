@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import monsterData from "./monsters_dataset.json";
 
-import MonsterTable from "./components/Table";
+import Table from "./components/Table";
 
 import "./App.css";
 
@@ -25,7 +25,7 @@ const App = () => {
         <h1 className="app__title">
           Mage Take Home <span className="app__subtitle">Ivan Lee</span>
         </h1>
-        <MonsterTable
+        <Table
           columnNames={monsterFeatures}
           data={monsters}
           title={"monster type"}
