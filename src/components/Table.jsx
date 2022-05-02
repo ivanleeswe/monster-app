@@ -58,18 +58,17 @@ const Table = ({ columnNames, data, title }) => {
         </tr>
       </thead>
       <tbody className="table__body">
-        {sortedData &&
-          sortedData.map((dataObj, index) => (
-            <Row
-              key={title + index.toString()}
-              dataObj={dataObj}
-              index={index}
-              rowIndex={rowIndex}
-              setRowIndex={setRowIndex}
-              columnNames={columnNames}
-              title={title}
-            />
-          ))}
+        {sortedData.map((dataObj, index) => (
+          <Row
+            key={title + index.toString()}
+            dataObj={dataObj}
+            index={index}
+            rowIndex={rowIndex}
+            setRowIndex={setRowIndex}
+            columnNames={columnNames}
+            title={title}
+          />
+        ))}
       </tbody>
     </table>
   );

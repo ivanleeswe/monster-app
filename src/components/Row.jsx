@@ -3,14 +3,9 @@ import React from "react";
 import ProgressBar from "./ProgressBar";
 import PopUp from "./PopUp";
 
-const RowReusable2 = ({
-  dataObj,
-  index,
-  rowIndex,
-  setRowIndex,
-  columnNames,
-  title,
-}) => {
+import Cell from "./Cell";
+
+const Row = ({ dataObj, index, rowIndex, setRowIndex, columnNames, title }) => {
   return (
     <tr
       className={
@@ -20,21 +15,19 @@ const RowReusable2 = ({
       }
       onClick={() => setRowIndex(index)}
     >
-      <td className="table__cell">
-        <span className="table__cellText">{dataObj[columnNames[0]]}</span>
-        <PopUp dataObj={dataObj} title={title} />
-      </td>
-      <td className="table__cell">
-        <span className="table__cellText">{dataObj[columnNames[1]]}</span>
-      </td>
-      <td className="table__cell">
-        <span className="table__cellText">{dataObj[columnNames[2]]}</span>
-      </td>
-      <td className="table__cell">
-        <ProgressBar dataObj={dataObj} columnName={columnNames[3]} />
-      </td>
+      {columnNames.map((columnName, index) => (
+        <Cell key={columnName + index.toString()}>
+          {index !== 3 && (
+            <span className="table__cellText">{dataObj[columnName]}</span>
+          )}
+          {index === 0 && <PopUp dataObj={dataObj} title={title} />}
+          {index === 3 && (
+            <ProgressBar dataObj={dataObj} columnName={columnName} />
+          )}
+        </Cell>
+      ))}
     </tr>
   );
 };
 
-export default RowReusable2;
+export default Row;
